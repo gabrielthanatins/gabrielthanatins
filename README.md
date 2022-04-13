@@ -1,6 +1,6 @@
 ### Olá Eu sou Gabriel Evaristo.
 
-- 🌱 Estudanto C# .NET Core ...
+- 🌱 Estudanto C# .NET, ASP.NET MVC ...
 - 📫 Contate-me no e-mail : gabriel-evaristo@hotmail.com
 - 😄 Pronouns: ele/dele
  <div>
