@@ -1,8 +1,8 @@
 ### Olá Eu sou Gabriel Evaristo.
 
-- 🌱 Estudanto C# .NET, ASP.NET MVC ...
+- 🌱 Desenvolvedor C# .NET, ASP.NET MVC ...
 - 📫 Contate-me no e-mail : gabriel-evaristo@hotmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Formação : Analise e Desenvolvimento de Sistemas - Senac SP Completo
  <div>
   <a href="https://github.com/gabrielthanatins">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielthanatins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
